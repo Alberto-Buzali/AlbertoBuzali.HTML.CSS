@@ -1,0 +1,16 @@
+body{
+  color:blue;
+}
+header{
+  color:red;
+}
+ul{
+  color:yellow;
+}
+nav li{
+  display: inline;
+}
+img{
+  width: 33%;
+  border: 2px solid green;
+}
